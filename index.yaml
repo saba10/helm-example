@@ -3,12 +3,12 @@ entries:
   acceleration-a:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-26T08:08:23.800655974Z"
+    created: "2023-03-26T08:10:28.314236075Z"
     description: A Helm chart for Kubernetes
     digest: e20ce62c7d0a31bfad44afb2953116abc800c7b236eb48c343336e987a8b2aa1
     name: acceleration-a
     type: application
     urls:
-    - acceleration-a-0.1.0.tgz
+    - https://saba10.github.io/helm-example/acceleration-a-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-26T08:08:23.799965718Z"
+generated: "2023-03-26T08:10:28.313518135Z"
